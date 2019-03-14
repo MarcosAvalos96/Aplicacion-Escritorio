@@ -1,7 +1,6 @@
 # Capturas de pantalla
 ### Inicio de sesion
-Debido a que un solo usuario podia manejar la entrada y salida de productos
-surgió la necesidad de programar un login sencillo para que nadie más pudiera entrar a modificar registros.
+Debido a que un solo usuario podia manejar la entrada y salida de productos surgió la necesidad de programar un login sencillo.
 <img src="capturas de pantalla/login.png">
 
 ### Pantalla principal de añadir
